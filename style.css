@@ -1,0 +1,8 @@
+body{
+    /* cursor: pointer; */
+    background-color: antiquewhite;
+}
+button{
+    /* cursor: url('cursor.png'), auto; */
+    cursor: pointer;
+}
